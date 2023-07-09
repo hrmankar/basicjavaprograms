@@ -9,10 +9,10 @@ public class FibonacciSeries
 	    
 	    for(int i=0;i<10;i++)
 	    {
-	    int sum = num1 + num2;
-	    num1 = num2;
-	    num2 = sum;
-	    System.out.println(sum);
+		    int sum = num1 + num2;
+		    num1 = num2;
+		    num2 = sum;
+		    System.out.println(sum);
 	    }
 	    
 	}
